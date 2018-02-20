@@ -1,5 +1,6 @@
 # hello-world
 Hello World Test Repository
+<<<<<<< HEAD
 
 Here is my edit to this file
 
@@ -22,3 +23,5 @@ kalsd;flkajs
 you suck
 just kidding!
 
+=======
+>>>>>>> parent of 3551b2b... made some edits to readme
